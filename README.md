@@ -1,7 +1,4 @@
-# 🌐 Web Security Labs
-
-> Web application penetration testing · XSS & CSP defence · Apache hardening · SCI Mod 6
- 
+>  🌐 Web Security Labs
 
 Hands-on web security labs covering both offensive exploitation and defensive hardening.
 All offensive work conducted in isolated Docker environments (OWASP Juice Shop) and
